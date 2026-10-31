@@ -1,0 +1,64 @@
+# EasyOps
+
+> EasyOps turns every wholesale purchase order into a living, AI-powered workspace — one place to see everything, take action, and automate deduction recovery and compliance for CPG brands selling through KeHE, UNFI, and other distributors.
+
+## Product
+- [The Intelligent PO™](https://tryeasyops.com/workspace): The purchase order becomes the workspace. Every system, document, and decision connected in one place.
+- [Deduction recovery](https://tryeasyops.com/deduction-recovery): Trace every KeHE deduction to the rule that caused it and find disputable chargebacks in minutes.
+- [Book a demo](https://tryeasyops.com/demo): See how EasyOps works in a 30-minute walkthrough.
+
+## Solutions
+- [Deductions](https://tryeasyops.com/solutions/deductions): Audit, recovery, dispute, and prefix-code classification for KeHE and UNFI deductions.
+- [Compliance](https://tryeasyops.com/solutions/compliance): Prevention and upstream fixes — routing rules, fee schedules, EDI deadlines checked before shipment.
+- [Operations](https://tryeasyops.com/solutions/operations): Cross-system visibility and the Intelligent PO as the connective layer across teams.
+- [Wholesale](https://tryeasyops.com/solutions/wholesale): Distribution operations at scale — working with KeHE, UNFI, and the DTC-to-wholesale transition.
+
+## Solutions by category
+- [Food & Beverage](https://tryeasyops.com/solutions/food-beverage): Fill-rate fees, OTD penalties, cut cases — deductions tuned to grocery and beverage brands.
+- [Supplements & Vitamins](https://tryeasyops.com/solutions/supplements): Short-date markdowns, labeling compliance, high-value SKU margin protection.
+- [Health, Beauty & Personal Care](https://tryeasyops.com/solutions/health-beauty): Damage claims, MAP/pricing, new-item and slotting fees.
+
+## KeHE Library
+- [KeHE Library hub](https://tryeasyops.com/kehe-library): The most complete KeHE supplier reference available — codes, compliance, disputes, and audit procedures.
+- [All 111 KeHE deduction prefix codes](https://tryeasyops.com/blog/kehe-prefix-codes): Every K-Solve prefix code explained in plain English, organized into 10 categories with four confidence levels.
+- [KeHE compliance guide](https://tryeasyops.com/kehe-compliance-guide): Fee schedule, routing rules, EDI deadlines, UDR response windows, and the K-Solve dispute process.
+- [How to dispute a KeHE deduction](https://tryeasyops.com/blog/kehe-dispute-guide): The dispute path, evidence packets by cause type, and the 180-day deadline.
+- [How to audit a KeHE K-Solve export](https://tryeasyops.com/blog/ksolve-guide): Step-by-step from export to operational next action, with a worked example.
+
+## Cornerstone guides
+- [The Wholesale PO Report · 2026 Edition](https://tryeasyops.com/blog/wholesale-po-report-2026): A 17-page, 26-source market report on distributors, deductions, deadlines, gross-to-net margin, finance teams, and practical operating steps for emerging CPG brands. No EasyOps customer data is used.
+- [KeHE deduction management](https://tryeasyops.com/blog/kehe-deduction-management): The complete operating guide — remittance to root cause in six steps.
+- [PO-to-cash workflow](https://tryeasyops.com/blog/po-to-cash): Follow a retailer-issued purchase order from receipt through settlement.
+- [What Is an Intelligent PO?](https://tryeasyops.com/blog/what-is-an-intelligent-po): The operating concept behind EasyOps — a living workspace for every purchase order.
+
+## Field guides
+- [Deduction evidence checklist](https://tryeasyops.com/blog/evidence-checklist): What evidence KeHE expects for each deduction type, organized by cause.
+- [OTIF and receiving prevention](https://tryeasyops.com/blog/otif-receiving-prevention): Upstream prevention — checks to run before the truck moves.
+- [How to read a KeHE remittance](https://tryeasyops.com/blog/how-to-read-kehe-remittance): What each field means, how to match lines to POs, and what prefix codes look like in context.
+- [New supplier: first 90 days](https://tryeasyops.com/blog/kehe-new-supplier-first-90-days): Setup fees, EDI timeline, first appointments, and deductions to expect in your first quarter.
+
+## Blog
+- [Demand planning from open POs](https://tryeasyops.com/blog/demand-planning-open-pos): How CPG brands forecast revenue from open KeHE purchase orders.
+- [KeHE deductions to QuickBooks](https://tryeasyops.com/blog/kehe-deductions-quickbooks): How deduction data flows into QuickBooks Online.
+- [What happens when a KeHE PO ships late](https://tryeasyops.com/blog/kehe-po-ships-late): The compliance cascade — fees, fill-rate impact, and discontinuation risk.
+- [KeHE vs. UNFI deductions](https://tryeasyops.com/blog/kehe-vs-unfi-deductions): How deduction management differs between the two distributors.
+- [How to calculate your KeHE deduction rate](https://tryeasyops.com/blog/kehe-deduction-rate): The formula, breakdown by type, and how to forecast net cash from shipped POs.
+- [CPG wholesale operations glossary](https://tryeasyops.com/blog/glossary): Plain-language definitions for wholesale operations terms.
+
+## Interactive tools
+- [Systems architecture map](https://tryeasyops.com/resources/architecture): Map where EDI, ERP, WMS, email, and portals fit in your operation.
+- [Decision guide](https://tryeasyops.com/resources/decision-guide): Compare software, recovery service, internal hire, and point-solution competitors.
+- [DTC-to-wholesale readiness](https://tryeasyops.com/resources/dtc-to-wholesale): Assess your readiness across eight operational domains.
+
+## Essays
+- [The last unoptimized purchase](https://tryeasyops.com/blog/the-last-unoptimized-purchase)
+- [The deduction industry needs your deductions](https://tryeasyops.com/blog/the-deduction-industry-needs-your-deductions)
+- [Operations isn't a department anymore](https://tryeasyops.com/blog/the-new-definition-of-operations)
+- [The Retail Ops Engineer manifesto](https://tryeasyops.com/retail-ops-engineer)
+
+## Company
+- [About](https://tryeasyops.com/about)
+- [Careers](https://tryeasyops.com/careers)
+
+## Free tool
+- [KeHE compliance audit](https://compliance-audit.tryeasyops.ai): Upload your K-Solve export and see what's disputable in 5 minutes. Free, no sign-up required.

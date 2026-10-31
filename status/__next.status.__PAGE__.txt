@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/easyops-marketing-concept-preview-deductions/_next/static/chunks/0o8c5mljc-clx.js","/easyops-marketing-concept-preview-deductions/_next/static/chunks/3-tgpc50adlr6.js","/easyops-marketing-concept-preview-deductions/_next/static/chunks/3j9ky570efn1n.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"max-w-[560px] mx-auto px-5 py-10 font-sans","children":["$","div",null,{"className":"rounded-lg border border-[#d0d7de] bg-[#f6f8fa] px-5 py-4 text-sm text-[#57606a]","children":"Status page is not available in this concept preview."}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Rc4rY3N2bS8AXo1DAMmil"}
+4:null

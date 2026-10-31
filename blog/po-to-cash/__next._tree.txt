@@ -1,0 +1,6 @@
+:HL["/easyops-marketing-concept-preview-deductions/_next/static/chunks/1dsjmjs9jranz.css","style"]
+:HL["/easyops-marketing-concept-preview-deductions/_next/static/media/49ac8188cb49c386.p.15yv5q8qhkunz.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/easyops-marketing-concept-preview-deductions/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/easyops-marketing-concept-preview-deductions/_next/static/media/d3f3f01dfc015e12-s.p.0xa2imhn0fp5k.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/easyops-marketing-concept-preview-deductions/easyops-logo.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"po-to-cash","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"Rc4rY3N2bS8AXo1DAMmil"}

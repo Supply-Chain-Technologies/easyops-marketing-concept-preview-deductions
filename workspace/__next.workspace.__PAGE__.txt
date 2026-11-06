@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[47257,["/easyops-marketing-concept-preview-deductions/_next/static/chunks/3dku3i-92-czo.js","/easyops-marketing-concept-preview-deductions/_next/static/chunks/3-tgpc50adlr6.js","/easyops-marketing-concept-preview-deductions/_next/static/chunks/14mrh2-p_w84d.js"],"ClientPageRoot"]
+3:I[86752,["/easyops-marketing-concept-preview-deductions/_next/static/chunks/3dku3i-92-czo.js","/easyops-marketing-concept-preview-deductions/_next/static/chunks/3-tgpc50adlr6.js","/easyops-marketing-concept-preview-deductions/_next/static/chunks/14mrh2-p_w84d.js","/easyops-marketing-concept-preview-deductions/_next/static/chunks/1rxncug86bump.js","/easyops-marketing-concept-preview-deductions/_next/static/chunks/29wbybihscggo.js","/easyops-marketing-concept-preview-deductions/_next/static/chunks/0fe9d7uc_qkuv.js"],"default"]
+6:I[97367,["/easyops-marketing-concept-preview-deductions/_next/static/chunks/3dku3i-92-czo.js","/easyops-marketing-concept-preview-deductions/_next/static/chunks/3-tgpc50adlr6.js","/easyops-marketing-concept-preview-deductions/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/easyops-marketing-concept-preview-deductions/_next/static/chunks/29wbybihscggo.js","async":true}],["$","script","script-1",{"src":"/easyops-marketing-concept-preview-deductions/_next/static/chunks/0fe9d7uc_qkuv.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ZTq6JDbLXUdAPbv-zdH_I"}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
